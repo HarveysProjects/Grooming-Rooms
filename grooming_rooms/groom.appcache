@@ -1,0 +1,50 @@
+CACHE MANIFEST
+
+
+http://grooming-rooms.zxq.net/Mobile1.html
+http://grooming-rooms.zxq.net/offline.html
+http://grooming-rooms.zxq.net/page2.html
+http://grooming-rooms.zxq.net/page3.html
+http://grooming-rooms.zxq.net/page4.html
+http://grooming-rooms.zxq.net/page5.html
+http://grooming-rooms.zxq.net/page6.html
+http://grooming-rooms.zxq.net/Blackberry.html
+http://grooming-rooms.zxq.net/iPad.html
+http://grooming-rooms.zxq.net/page6i.html
+http://grooming-rooms.zxq.net/page6B.html
+
+CACHE:
+/swatch-e-custom.css
+/add2home.css
+/groomicon2.png
+/groomicon.png
+/spring.jpg
+/price.jpg
+/house.jpg
+/clean.jpg
+/about-us.jpg
+/Find Us.jpg
+/jquery.mobile-1.1.1/jquery.mobile.theme-1.1.1.min.css
+/jquery.mobile-1.1.1/jquery.mobile.structure-1.1.1.min.css
+/jquery.mobile-1.1.1/jquery.mobile-1.1.1.min.css
+/jquery.mobile-1.1.1/jquery.mobile-1.1.1.min.js
+/jquery.mobile-1.1.1/images/icons-36-white.png
+/jquery.mobile-1.1.1/images/icons-36-black.png
+/jquery.mobile-1.1.1/images/icons-18-white.png
+/jquery.mobile-1.1.1/images/icons-18-black.png
+/jquery.mobile-1.1.1/images/ajax-loader.png
+/jquery.mobile-1.1.1/images/ajax-loader.gif
+/jquery-1.7.2.min.js
+
+
+FALLBACK:
+/page7.html /offline.html
+/contact.php /offline.html
+
+NETWORK:
+/contact.php
+/page7.html
+
+
+
+

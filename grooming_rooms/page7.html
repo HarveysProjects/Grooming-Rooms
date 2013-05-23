@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+</head>
+<body>
+
+
+
+
+
+
+
+
+
+<section id="page7" data-role="page" data-add-back-btn="true">
+<header data-role="header" data-position="fixed"><h5 style="white-space:normal";>Grooming Rooms</h5></header>
+<div data-role="content" class="content">
+<h2>Contact Us</h2>
+
+<div data-role="content">
+        <form action="contact.php" method="POST">
+            <fieldset>
+                    <div data-role="fieldcontain">
+                        <label for="senderName">Name:</label>
+                        <input type="text" name="senderName" id="senderName" placeholder="Please type your name" required="required" maxlength="40" />
+                    </div>
+                    
+                    <div data-role="fieldcontain">
+                        <label for="senderEmail">Email Address:</label>
+                        <input type="email" name="senderEmail" id="senderEmail" placeholder="Please type your email address" required="required" maxlength="50" />
+                    </div>
+                    
+                    <div data-role="fieldcontain">
+                        <label for="message" style="padding-top: .5em;">Your Message</label>
+                        <textarea name="message" id="message" placeholder="Please type your message" required="required" cols="80" rows="10" maxlength="10000"></textarea>
+                    </div>              
+            </fieldset>    
+            <button type="submit" data-theme="b"/>Send Email</button>
+        </form>
+
+
+<footer data-role="footer">
+	<h1>07814 269 646</h1>
+</footer>
+</section>
+
+</body>
+
+
+</html>
